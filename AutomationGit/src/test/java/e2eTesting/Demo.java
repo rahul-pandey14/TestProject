@@ -24,4 +24,28 @@ public class Demo {
 		System.out.println("demo");
 		System.out.println("data");
 	}
+
+	@Test
+	public void demoTest1() {
+
+		System.out.println("dummy");
+		System.out.println("demo");
+		System.out.println("data");
+	}
+
+	@Test
+	public void demoTest2() {
+
+		System.out.println("dummy");
+		System.out.println("demo");
+		System.out.println("data");
+	}
+
+	@Test
+	public void demoTest3() {
+
+		System.out.println("dummy");
+		System.out.println("demo");
+		System.out.println("data");
+	}
 }
