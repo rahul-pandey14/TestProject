@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="31" started-at="2022-02-15T16:34:21Z" finished-at="2022-02-15T16:34:21Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="31" started-at="2022-02-15T16:34:21Z" finished-at="2022-02-15T16:34:21Z">
+      <class name="mavenPackage.ApiTest">
+        <test-method status="PASS" signature="data()[pri:0, instance:mavenPackage.ApiTest@35fb3008]" name="data" duration-ms="0" started-at="2022-02-15T16:34:21Z" finished-at="2022-02-15T16:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- data -->
+        <test-method status="PASS" signature="apiLoginTest()[pri:0, instance:mavenPackage.ApiTest@35fb3008]" name="apiLoginTest" duration-ms="0" started-at="2022-02-15T16:34:21Z" finished-at="2022-02-15T16:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiLoginTest -->
+      </class> <!-- mavenPackage.ApiTest -->
+      <class name="mavenPackage.Selenium">
+        <test-method status="PASS" signature="demo()[pri:0, instance:mavenPackage.Selenium@7225790e]" name="demo" duration-ms="0" started-at="2022-02-15T16:34:21Z" finished-at="2022-02-15T16:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+        <test-method status="PASS" signature="dummy(java.lang.String, java.lang.String)[pri:0, instance:mavenPackage.Selenium@7225790e]" name="dummy" duration-ms="0" started-at="2022-02-15T16:34:21Z" data-provider="getData" finished-at="2022-02-15T16:34:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FuserName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummy -->
+        <test-method status="PASS" signature="dummy(java.lang.String, java.lang.String)[pri:0, instance:mavenPackage.Selenium@7225790e]" name="dummy" duration-ms="0" started-at="2022-02-15T16:34:21Z" data-provider="getData" finished-at="2022-02-15T16:34:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SuserName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Spassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummy -->
+        <test-method status="PASS" signature="dummy(java.lang.String, java.lang.String)[pri:0, instance:mavenPackage.Selenium@7225790e]" name="dummy" duration-ms="0" started-at="2022-02-15T16:34:21Z" data-provider="getData" finished-at="2022-02-15T16:34:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TuserName]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tpassword]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummy -->
+        <test-method status="PASS" signature="webLoginTest()[pri:0, instance:mavenPackage.Selenium@7225790e]" name="webLoginTest" duration-ms="0" started-at="2022-02-15T16:34:21Z" finished-at="2022-02-15T16:34:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webLoginTest -->
+      </class> <!-- mavenPackage.Selenium -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
