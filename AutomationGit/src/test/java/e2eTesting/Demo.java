@@ -8,6 +8,8 @@ public class Demo {
 	public void demo() {
 
 		System.out.println("dummy");
+		System.out.println("demo");
+		System.out.println("data");
 	}
 
 }
