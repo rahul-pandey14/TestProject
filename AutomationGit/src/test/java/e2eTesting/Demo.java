@@ -48,4 +48,21 @@ public class Demo {
 		System.out.println("demo");
 		System.out.println("data");
 	}
+
+	@Test
+	public void demoTest4() {
+
+		System.out.println("dummy");
+		System.out.println("demo");
+		System.out.println("data");
+	}
+
+	@Test
+	public void demoTest5() {
+
+		System.out.println("dummy");
+		System.out.println("demo");
+		System.out.println("data");
+	}
+
 }
